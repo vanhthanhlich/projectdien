@@ -1,0 +1,3 @@
+/home/vamh/Projects/labdien/build/CMakeFiles/irs_pso.dir
+/home/vamh/Projects/labdien/build/CMakeFiles/edit_cache.dir
+/home/vamh/Projects/labdien/build/CMakeFiles/rebuild_cache.dir

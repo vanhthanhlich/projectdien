@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vamh/Projects/labdien/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
